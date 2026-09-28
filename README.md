@@ -1,7 +1,7 @@
 # 自分専用 Swift 学習ノート
 
-> **氏名：** （Luvsandagva Bolderdene）
-> **学籍番号：** （26cm0142）
+> **氏名：** Luvsandagva Bolderdene
+> **学籍番号：** 26cm0142
 > **開始日：** 2026年9月28日
 
 ---
